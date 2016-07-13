@@ -1,0 +1,28 @@
+name: bernedoodle
+favicon: null
+layout_spectrum: 0.4248909440357238
+typography_spectrum: 0.7839017116930336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6494518499821424
+  lightness: 0.7014460403006524
+  saturation: 0.9845438301563263
+  rhythmicContrast: 0.5004930642899126
+purpose: []
