@@ -1,19 +1,4 @@
-name: bernedoodle
-favicon: null
-layout_spectrum: 0.4248909440357238
 typography_spectrum: 0.7839017116930336
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,25 @@ color:
   lightness: 0.7014460403006524
   saturation: 0.9845438301563263
   rhythmicContrast: 0.5004930642899126
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4248909440357238
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  email: bernedoodle@outlook.com
+  name: Australian Bernedoodle
+  url: www.australian-bernedoodle.com
+name: Australian bernedoodles
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9089eed0-1227-4112-9075-391b17145f48.jpg
+title: Best of Both Worlds
 purpose: []
